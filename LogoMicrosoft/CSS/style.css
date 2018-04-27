@@ -1,0 +1,38 @@
+.contenedor{
+	display: inline-flex;
+	width: 100px;
+	flex-wrap: wrap;
+	
+}
+
+div.grancont{
+	display: flex;
+	align-items: center;
+}
+div.caja{
+	display: flex;
+	width: 40px;
+	height: 40px;
+	background-color: black;
+	margin: 1px;
+
+}
+
+div.rojo{
+	background: red;
+}
+
+div.azul{
+	background: blue;
+}
+div.verde{
+	background: green;
+}
+div.amarillo{
+	background: yellow;
+}
+h2{
+	display: inline-flex;
+	font-size: 50px;
+	
+}
